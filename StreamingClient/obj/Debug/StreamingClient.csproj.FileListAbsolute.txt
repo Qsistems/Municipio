@@ -1,0 +1,37 @@
+c:\users\vmt-dcabezas\documents\visual studio 2013\Projects\StreamingClient\StreamingClient\bin\Debug\StreamingClient.exe.config
+c:\users\vmt-dcabezas\documents\visual studio 2013\Projects\StreamingClient\StreamingClient\bin\Debug\StreamingClient.exe
+c:\users\vmt-dcabezas\documents\visual studio 2013\Projects\StreamingClient\StreamingClient\bin\Debug\StreamingClient.pdb
+c:\users\vmt-dcabezas\documents\visual studio 2013\Projects\StreamingClient\StreamingClient\obj\Debug\StreamingClient.csprojResolveAssemblyReference.cache
+c:\users\vmt-dcabezas\documents\visual studio 2013\Projects\StreamingClient\StreamingClient\obj\Debug\StreamingClient.Properties.Resources.resources
+c:\users\vmt-dcabezas\documents\visual studio 2013\Projects\StreamingClient\StreamingClient\obj\Debug\StreamingClient.csproj.GenerateResource.Cache
+c:\users\vmt-dcabezas\documents\visual studio 2013\Projects\StreamingClient\StreamingClient\obj\Debug\StreamingClient.exe
+c:\users\vmt-dcabezas\documents\visual studio 2013\Projects\StreamingClient\StreamingClient\obj\Debug\StreamingClient.pdb
+C:\Users\vmt-dcabezas\Documents\Visual Studio 2013\Projects\StreamingClient\StreamingClient\obj\Debug\StreamingClient.Mensaje.resources
+C:\Users\vmt-dcabezas\Documents\Visual Studio 2013\Projects\StreamingClient\StreamingClient\obj\Debug\StreamingClient.Inicio.resources
+C:\Users\vmt-dcabezas\Documents\Visual Studio 2013\Projects\StreamingClient\StreamingClient\obj\Debug\StreamingClient.Navegador.resources
+C:\Users\darwi\Documents\Visual Studio 2013\Projects\StreamingClientOrg\StreamingClient\StreamingClient\bin\Debug\StreamingClient.exe.config
+C:\Users\darwi\Documents\Visual Studio 2013\Projects\StreamingClientOrg\StreamingClient\StreamingClient\bin\Debug\StreamingClient.exe
+C:\Users\darwi\Documents\Visual Studio 2013\Projects\StreamingClientOrg\StreamingClient\StreamingClient\bin\Debug\StreamingClient.pdb
+C:\Users\darwi\Documents\Visual Studio 2013\Projects\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.Capturas.resources
+C:\Users\darwi\Documents\Visual Studio 2013\Projects\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.EsperaConexion.resources
+C:\Users\darwi\Documents\Visual Studio 2013\Projects\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.Inicio.resources
+C:\Users\darwi\Documents\Visual Studio 2013\Projects\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.Mensaje.resources
+C:\Users\darwi\Documents\Visual Studio 2013\Projects\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.Navegador.resources
+C:\Users\darwi\Documents\Visual Studio 2013\Projects\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.Properties.Resources.resources
+C:\Users\darwi\Documents\Visual Studio 2013\Projects\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.csproj.GenerateResource.Cache
+C:\Users\darwi\Documents\Visual Studio 2013\Projects\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.exe
+C:\Users\darwi\Documents\Visual Studio 2013\Projects\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.pdb
+C:\Users\darwi\Documents\Visual Studio 2013\Projects\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.csprojResolveAssemblyReference.cache
+C:\Users\lchoez\Desktop\Qmatic\StreamingClientOrg\StreamingClient\StreamingClient\bin\Debug\StreamingClient.exe.config
+C:\Users\lchoez\Desktop\Qmatic\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.exe
+C:\Users\lchoez\Desktop\Qmatic\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.pdb
+C:\Users\lchoez\Desktop\Qmatic\StreamingClientOrg\StreamingClient\StreamingClient\bin\Debug\StreamingClient.exe
+C:\Users\lchoez\Desktop\Qmatic\StreamingClientOrg\StreamingClient\StreamingClient\bin\Debug\StreamingClient.pdb
+C:\Users\lchoez\Desktop\Qmatic\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.csprojResolveAssemblyReference.cache
+C:\Users\lchoez\Desktop\Qmatic\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.Capturas.resources
+C:\Users\lchoez\Desktop\Qmatic\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.EsperaConexion.resources
+C:\Users\lchoez\Desktop\Qmatic\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.Inicio.resources
+C:\Users\lchoez\Desktop\Qmatic\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.Mensaje.resources
+C:\Users\lchoez\Desktop\Qmatic\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.Navegador.resources
+C:\Users\lchoez\Desktop\Qmatic\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.Properties.Resources.resources
+C:\Users\lchoez\Desktop\Qmatic\StreamingClientOrg\StreamingClient\StreamingClient\obj\Debug\StreamingClient.csproj.GenerateResource.Cache
